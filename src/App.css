@@ -1,0 +1,117 @@
+*{
+  margin: 0;
+  padding: 0;
+
+  color: #1A1A1A;
+}
+.medHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid black;
+}
+ .medHead h1{
+  font-size: 2.3rem;
+  font-weight: bolder;
+ }
+.btn{
+  color: #F8F3ED;
+  background-color: #1A1A1A;
+  border: none;
+  width: 120px;
+  height: 35px;
+  border-radius: 25px;
+  padding: 3px;
+}
+.bigText{
+  font-size: 5rem;
+  width: 70%;
+  margin-top: 60px;
+  padding: 20px;
+  line-height: 4.5rem;
+  font-weight: 450;
+}
+.reader{
+  margin-top: 15px;
+  padding: 0 5px 0 20px;
+  font-size: 1.3rem;
+  font-weight:400
+  
+}
+.greenBtn{
+  margin-top: 20px;
+  width: 180px;
+  margin: 40px 20px 0 20px;
+  padding: 5px;
+  background-color: #1B8919;
+  color: #F8F3ED;
+  border-radius: 25px;
+  border: none;
+  height: 40px;
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+
+.cenButs{
+  margin-top: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.authButs{
+  color: #1A1A1A;
+}
+.authButs{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 230px;
+  margin-bottom: 12px;
+  padding: 10px;
+  border: 0.1px solid #1A1A1A;
+  border-radius: 30px;
+}
+.ics{
+  margin-left: 0;
+}
+.tech{
+  margin: auto;
+}
+.welcome{
+  text-align: center;
+  margin-top: 80px;
+  font-weight: 300;
+}
+.signLink{
+  text-align: center;
+  margin-top: 30px;
+}
+.trouble{
+  text-align: center;
+  font-size: 0.8rem;
+  margin-top: 40px;
+  color: gray;
+}
+
+.signit{
+  text-align: center;
+  font-size: 0.8rem;
+  width: 70%;
+  margin-top: 40px;
+  color: gray;
+}
+
+.icons{
+  position: absolute;
+  right: 4%;
+  top: 2%;
+}
+a{
+  text-decoration: none;
+  color:#1B8919;
+}
+button:hover{
+  background-color: gray;
+}
