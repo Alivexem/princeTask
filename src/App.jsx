@@ -12,7 +12,7 @@ const App = () => {
       </div>
 
       <h1 className='bigText'>Human stories & ideas</h1>
-      <h1 className='reader' style={{fontFamily:'sans-serif'}}>A place to read, write, and deepen your understanding Guru hub.</h1>
+      <h1 className='reader' style={{fontFamily:'sans-serif'}}>A place to read, write, and deepen your understanding in Guru hub.</h1>
       
       <Link to='/login'>
       <button className='greenBtn'> Start reading</button>
