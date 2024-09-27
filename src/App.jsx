@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div style={{background: '#F8F3ED',height:'100vh'}}>
       <div className='medHead'>
-        <h1>GURU</h1>
+        <h1>MEDIUM</h1>
         <Link to='/login'>
         <button className='btn'>Get started</button>
         </Link>
