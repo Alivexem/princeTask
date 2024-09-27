@@ -11,7 +11,7 @@ const Login = () => {
         <FontAwesomeIcon icon={faTimes} />       
         </Link>
         </div>
-        <h1 className='welcome'>Welcome back to Guru.</h1>
+        <h1 className='welcome'>Welcome back.</h1>
         <div style={{fontFamily:'sans-serif'}} className='cenButs'>
             <div className='authButs'>
                 <img className='ics' style={{height:'18px', width:'18px'}} src='googleIcon.webp' alt='google icon' />
